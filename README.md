@@ -64,7 +64,7 @@
       alt="webpack"/>
   </a>
 &emsp;
-    <img src="https://img.shields.io/badge/Next.js-23563D7C.svg?logo=nextjs&logoColor=black"
+    <img src="https://img.shields.io/badge/Next.js-23563D7C.svg?logo=next.js&logoColor=black"
       alt="nextjs"/>
 </p>
 
@@ -96,7 +96,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?logo=mongodb&logoColor=white"
