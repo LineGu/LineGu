@@ -39,7 +39,9 @@
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  </a>  
+  &emsp;
+  <img alt="SCSS" src="https://img.shields.io/badge/SCSS5%20-%23E34F26.svg?logo=scss&logoColor=white">
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
