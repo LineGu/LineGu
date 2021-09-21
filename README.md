@@ -45,41 +45,44 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
-  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 &emsp;
   <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+    <img src="https://img.shields.io/badge/redux-764ABC.svg?logo=redux&logoColor=white" alt="redux"/> 
   </a> 
 &emsp;
   <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+    <img src="https://img.shields.io/badge/jquery-0769AD.svg?logo=jquery&logoColor=white" alt="jquery"/> 
   </a>
 &emsp;
   <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
+    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?logo=webpack&logoColor=black"
       alt="webpack"/>
   </a>
+&emsp;
+    <img src="https://img.shields.io/badge/Next.js-8DD6F9.svg?logo=nextjs&logoColor=black"
+      alt="webpack"/>
 </p>
 
 ### 👉 Backend Development
 <p align="left"> 
 &emsp;
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    <img src="https://img.shields.io/badge/node.js-339933.svg?logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
 &emsp;
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+    <img src="https://img.shields.io/badge/express-000000.svg?logo=express&logoColor=white"
       alt="express" />
   </a>
 &emsp;
   <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
+    <img src="https://img.shields.io/badge/nginx-009639.svg?logo=nginx&logoColor=white" 
       alt="nginx"/> 
   </a> 
 &emsp;
@@ -91,12 +94,12 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
   <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
   &emsp;
   <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?logo=redis&logoColor=white"
       alt="redis"/>
   </a>
  </p>
@@ -110,7 +113,7 @@
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
   <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
 
