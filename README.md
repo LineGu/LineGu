@@ -64,8 +64,8 @@
       alt="webpack"/>
   </a>
 &emsp;
-    <img src="https://img.shields.io/badge/Next.js-8DD6F9.svg?logo=nextjs&logoColor=black"
-      alt="webpack"/>
+    <img src="https://img.shields.io/badge/Next.js-23563D7C.svg?logo=nextjs&logoColor=black"
+      alt="nextjs"/>
 </p>
 
 ### 👉 Backend Development
@@ -80,6 +80,11 @@
     <img src="https://img.shields.io/badge/express-000000.svg?logo=express&logoColor=white"
       alt="express" />
   </a>
+&emsp;
+  <a href="https://github.com/puppeteer/puppeteer" target="_blank"> 
+    <img src="https://img.shields.io/badge/Puppeteer-61DAFB.svg?logo=Puppeteer&logoColor=black" 
+      alt="nginx"/> 
+  </a> 
 &emsp;
   <a href="https://www.nginx.com" target="_blank"> 
     <img src="https://img.shields.io/badge/nginx-009639.svg?logo=nginx&logoColor=white" 
