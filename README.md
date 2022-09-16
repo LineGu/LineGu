@@ -2,7 +2,7 @@
 front-end engineer<br>
 </h1>
 
-<div style="width: 100%; display: flex; justify-content: center;">
+<div style="width: 100%; display: flex; justify-content: center; background: red;">
   <img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=ray" alt=""/>
 </div>
 
